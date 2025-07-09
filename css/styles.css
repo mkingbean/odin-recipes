@@ -1,11 +1,19 @@
 body {
     font-family: "Tahoma", sans-serif;
     color: darkslategray;
+    width: 600px;
 }
 
 h1, h2 {
     background-color:aliceblue;
     border-bottom: 2px dashed darkslategray;
-    width: 600px;
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+}
+
+p {
     text-align: center;
 }
