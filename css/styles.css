@@ -1,3 +1,10 @@
 body {
     font-family: "Tahoma", sans-serif;
 }
+
+h1, h2 {
+    background-color:aliceblue;
+    border-bottom: 2px dashed darkslategray;
+    width: 600px;
+    text-align: center;
+}
